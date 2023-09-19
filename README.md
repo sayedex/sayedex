@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/sayed6767" target="blank"><img src="https://img.shields.io/twitter/follow/sayed6767?logo=twitter&style=for-the-badge" alt="sayed6767" /></a> </p>
 
-- 🔭 I’m currently working on [NEO](https://neofilms.movie/)
+- 🔭 I’m currently working on [Blocksafe](https://www.blocksafe.space/)
 
-- 🌱 I’m currently learning **Reactjs,Nextjs,Web3js,Redux.js,Eitherjs,Subgraph**
+- 🌱 I’m currently learning **Solidity,Reactjs,Nextjs,Web3js,Redux.js,Eitherjs,Subgraph,Dapp**
 
 - 👨‍💻 All of my projects are available at [https://sayedex.com/](https://sayedex.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sayedexdevs](https://www.linkedin.com/in/sayedexdevs)
 
-- 💬 Ask me about **Dapp**
+- 💬 Ask me about **Dapp and Smart contract**
+
+- 📫 How to reach me **csshasan732@gmail.com**
 
 - 📄 Know about my experiences [https://sayedex.com/](https://sayedex.com/)
 
