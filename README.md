@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayed6767" target="blank"><img src="https://img.shields.io/twitter/follow/sayed6767?logo=twitter&style=for-the-badge" alt="sayed6767" /></a> </p>
 
-- 🔭 I’m currently working on [Blocksafe](https://www.blocksafe.space/)
+- 🔭 I’m currently working on [Sayedex](https://sayedex.com/)
 
 - 🌱 I’m currently learning **Solidity,Reactjs,Nextjs,Web3js,Redux.js,Eitherjs,Subgraph,Dapp**
 
