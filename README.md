@@ -1,21 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on scaling decentralized infrastructure and optimizing Web3 marketing funnels at Overmarcom Agency.<br><br>👯 I’m looking to collaborate on innovative Layer 2 scaling solutions, cross-chain DeFi protocols, and enterprise-grade NFT ecosystems.<br><br>🤝 I’m looking for help with exploring the latest advancements in Uniswap v4 hooks and zero-knowledge proof integrations.<br><br>🌱 I’m currently learning advanced Rust for Substrate-based chains and refining large-scale solar energy monitoring systems.<br><br>💬 Ask me about Smart Contract Security (Solidity), Full-stack Web3 architecture (MERN + Ethers.js), or how I scaled to Level 2 status on Fiverr.<br><br>⚡ Fun fact I have spent over 11,000 hours engineering blockchain solutions, but I still get a rush every time a complex deployment hits the mainnet successfully.
+<div align="center">
+  <h1>🚀 Hi, I'm Sayed (Sayedex)</h1>
+  <h3>Blockchain Expert | CTO @ Overmarcom Agency | Full-Stack Web3 Architect</h3>
 
+  <p>
+    <a href="https://www.fiverr.com/sayedex"><img src="https://img.shields.io/badge/Fiverr-Level_2-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+    <a href="https://www.upwork.com/freelancers/~015f5d68019a3c7d6c"><img src="https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayedex_web3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayedexdevs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayed6767) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayedadmod@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sayedex&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sayedex&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayedex&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sayedex&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Engineering%20the%20future%20of%20decentralized%20finance%20with%20precision%20and%20scalability.&author=Sayedex" alt="Quote" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sayedex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+- 🔭 **Executive Lead:** Currently scaling decentralized infrastructure and optimizing Web3 marketing funnels as CTO at **Overmarcom Agency**.
+- 👯 **Synergy:** Looking to collaborate on high-throughput **Layer 2 solutions**, cross-chain DeFi, and enterprise NFT ecosystems.
+- 🤝 **R&D:** Deep-diving into **Uniswap v4 hooks**, custom liquidity logic, and Zero-Knowledge Proof (ZKP) integrations.
+- 🌱 **Evolution:** Mastering **Rust** for Substrate and developing smart monitoring systems for large-scale solar energy.
+- 💬 **Expertise:** Smart Contract Security, MERN + Ethers.js architecture, and scaling high-performance freelance agencies.
+- ⚡ **Track Record:** Over **11,000+ hours** of engineering experience with a "Mainnet-first" mindset.
+
+---
+
+### 🛠️ Strategic Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,rust,solidity,nodejs,nextjs,react,nestjs,mongodb,postgres,prisma,redis,aws,docker,nginx,githubactions" />
+</div>
+
+<details>
+  <summary><b>📂 View Full Technical Arsenal</b></summary>
+  <br />
+  
+  - **Languages:** TypeScript, Rust, Solidity, Python, JavaScript, Bash
+  - **Frameworks:** Next.js, React Native, NestJS, Express, Three.js
+  - **Cloud & DevOps:** AWS, DigitalOcean, Google Cloud, Cloudflare, PM2, GitHub Actions
+  - **Web3:** Ethers.js, Web3.js, Uniswap SDK, IPFS (Pinata), Hardhat, Foundry
+</details>
+
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.shion.dev/api?username=sayedex&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" height="170px" /></td>
+      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sayedex&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" height="170px" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=sayedex&theme=transparent&hide_border=true&stroke=00d1b2&ring=00d1b2&fire=00d1b2&currStreakLabel=00d1b2" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏆 Recognitions
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayedex&theme=radical&no-frame=true&no-bg=true&column=4" />
+</p>
+
+---
+
+### 🌐 Let's Build the Future
+<div align="center">
+  <a href="https://t.me/sayed6767"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/8801XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sayedexdevs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sayedadmod@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/sayed6767"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=sayedex&color=00d1b2&style=flat-square&label=PROFILE+VIEWS" />
+</div>
